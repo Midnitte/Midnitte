@@ -1,4 +1,4 @@
-![image](https://www.codewars.com/users/Midnitte/badges/small)
+[![image](https://www.codewars.com/users/Midnitte/badges/small)](https://www.codewars.com/users/Midnitte)
 ### Hi there 👋
 
 <!--
