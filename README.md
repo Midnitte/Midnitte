@@ -6,7 +6,7 @@
         <a href="https://fosstodon.org/@midnitte" alt="Mastodon">
         <img src="https://img.shields.io/mastodon/follow/108221940295302729?domain=https%3A%2F%2Ffosstodon.org&style=social" /></a>
  </p>
-### My name is Chris, I'm currently an analytical chemist and seeking my masters in data analytics from Georgia Tech's OMSA program. Be sure to view my CodeWars profile above.
+<h3>My name is Chris, I'm currently an analytical chemist and seeking my masters in data analytics from Georgia Tech's OMSA program. Be sure to view my CodeWars profile above.</h3>
 
 - 🔭 I’m currently working on ... Learning!
 - 🌱 I’m currently learning ... Python, R, and renewing my knowledge in mathmatics.
