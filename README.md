@@ -1,4 +1,5 @@
 [![image](https://www.codewars.com/users/Midnitte/badges/small)](https://www.codewars.com/users/Midnitte)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/108221940295302729?domain=https%3A%2F%2Ffosstodon.org&style=social)
 ### My name is Chris, I'm currently an analytical chemist and seeking my masters in data analytics from Georgia Tech's OMSA program. Be sure to view my CodeWars profile above.
 
 - 🔭 I’m currently working on ... Learning!
