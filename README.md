@@ -10,7 +10,7 @@
 <h3>My name is Chris, I'm currently an analytical chemist and seeking my masters in data analytics from Georgia Tech's OMSA program. Be sure to view my CodeWars profile above, my <a href="https://www.hackerrank.com/midnitte?hr_r=1 alt="HackerRank">HackerRank profile here</a>, or my <a href="https://rosalind.info/users/Midnitte/" alt="Rosalind">Rosalind profile here</a></h3>
 
 - 🔭 I’m currently working on ... Learning!
-- 🌱 I’m currently learning ... SQL, Python, R, GitHub, and Business Fundamentals.
+- 🌱 I’m currently learning ... SQL, Python, R, GitHub, and Database Fundamentals.
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... If you react Eucalyptol (1,8-cineol, the main component of eucalyptus oil) with phosphoric acid in an ice bath, you'll form a white crystalline precipitate.
 <!---
